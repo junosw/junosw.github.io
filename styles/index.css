@@ -21,6 +21,10 @@ p, a, body, h1, h2, h3, h4, h5, h6  {
 	color: var(--brand-grey-1);
 }
 
+.footer {
+	padding-bottom: 64px;
+}
+
 a:hover {
 	color: var(--brand-blue);
 }
@@ -94,7 +98,7 @@ a:hover {
 }
 
 #wrapper {
-	margin: 0 24px 32px 24px;
+	margin: 0 24px;
 }
 
 @-webkit-keyframes sk-scaleout {
