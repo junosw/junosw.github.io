@@ -1,0 +1,61 @@
+
+<head>
+	<link rel="stylesheet" type="text/css" href="./styles/index.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div id="menu"></div>
+
+	<div id="wrapper">
+		<h2 class="section-header">Sometimes looking things up is hard. Here are some shortcuts.</h2>
+		<p>To make an existing branch <em>dev</em> exactly match another branch <em>production</em> (losing all changes on current, <em>dev</em>):</p>
+		<pre>git checkout production<br>git branch -D dev<br>git checkout -b dev<br>git branch -u origin/dev<br>git push origin dev --force
+		</pre>
+
+		<div class="content-chunk">
+			<p>Get external IP address on Mac</p>
+			<pre>dig -4 TXT +short o-o.myaddr.l.google.com @ns1.google.com</pre>
+		</div>
+
+		<div class="content-chunk">
+			<p>Some times you just need to know what your globally installed npm packages are:</p>
+			<pre>npm list -g --depth=0</pre>
+		</div>
+
+		<div class="content-chunk">
+			<p>Setting your branch to exactly match the remote branch can be done in two steps:</p>
+			<pre>git fetch origin<br>git reset --hard origin/[branch-name]
+			</pre>
+		</div>
+
+		<div class="content-chunk">
+			<p>Add &amp; commit alias</p>
+			<pre>git config --global alias.ac '!git add -A &amp;&amp; git commit'</pre>
+		</div>
+
+		<div class="content-chunk">
+			<p>Revert last four commits</p>
+			<pre>git revert HEAD~4..HEAD~1</pre>
+		</div>
+
+		<div class="content-chunk">
+			<p>On Mac OS, El Capitan or greater, to find a process using port 3000:</p>
+			<pre>sudo lsof -i tcp:3000</pre>
+		</div>
+
+		<div class="content-chunk">
+			<p>Edit browser cache for specific site...</p>
+			<p>Chrome: Settings &gt; Privacy and security &gt; Site settings &gt; Cookies and site data &gt; See all cookies and site data &gt; [search]</p>
+		</div>
+
+		<div class="content-chunk">
+			<h2>AWS</h2>
+			<p><a href="https://www.expeditedssl.com/aws-in-plain-english">Amazon services best description ever.</a></p>
+			<h2>Random assortment of tech links</h2>
+			<p><a href="https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html">What Did Ada Lovelace's Program Actually Do?</a></p>
+		</div>
+	</div>
+</body>

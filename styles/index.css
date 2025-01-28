@@ -13,12 +13,31 @@
 	--brand-purple: #5a43b5;
 }
 
+/*
+<uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 100 to 900
+*/
+.inter-junosw {
+	font-family: "Inter", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
 body {
 	background-color: var(--brand-grey-4);
+	font-family: "Inter", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
 }
 
 p, a, body, h1, h2, h3, h4, h5, h6  {
 	color: var(--brand-grey-1);
+}
+
+h2 {
+	font-weight: 600;
 }
 
 .footer {
@@ -29,10 +48,17 @@ a:hover {
 	color: var(--brand-blue);
 }
 
+.top-line-header {
+	display: flex;
+	flex-flow: row wrap;
+	gap: 32px;
+	align-items: baseline;
+}
+
 .section-header {
 	margin-top: 32px;
 	padding: 8px 16px;
-	background-color: var(--brand-purple);
+	border: 1px solid var(--brand-purple);
 	border-radius: 5px;
 }
 
@@ -99,6 +125,8 @@ a:hover {
 
 #wrapper {
 	margin: 0 24px;
+	padding-bottom: 64px;
+	max-width: 1000px;
 }
 
 @-webkit-keyframes sk-scaleout {
