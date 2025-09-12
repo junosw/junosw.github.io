@@ -1,894 +1,906 @@
-{
-	"quotes": {
-		"14607asd0170749959": {
-			"author": "Brene´ Brown",
-			"id": "14607asd0170749959",
-			"originalText": "\"If you own this story you get to write the ending.\" —Brene´ Brown",
-			"text": "If you own this story you get to write the ending."
-		},
-		"1460790640170749959": {
+	{
+		"quotes": {
+			"1757682982": {
+				"author": "Stephen Covey",
+				"id": "1757682982",
+				"originalText": "\"Trusting people to be creative and constructive when given more freedom does not imply an overly optimistic belief in the perfectibility of human nature, it is rather a belief that the inevitable errors and sins of the human condition are far better overcome by individuals working together in an environment of trust, freedom, and mutual respect than by individuals working under a multitude of rules, regulations, and restraints imposed upon them by another group of imperfect people.\" —-Stephen Covey",
+				"text": "Trusting people to be creative and constructive when given more freedom does not imply an overly optimistic belief in the perfectibility of human nature, it is rather a belief that the inevitable errors and sins of the human condition are far better overcome by individuals working together in an environment of trust, freedom, and mutual respect than by individuals working under a multitude of rules, regulations, and restraints imposed upon them by another group of imperfect people."
+			},
+			"1757682908": {
+				"author": "Jen Hatmaker",
+				"id": "1757682908",
+				"originalText": "\"There is no scarcity in creativity. The world always needs good offerings. We cannot have to much beauty. There is no such thing as too much wisdom and literature and story and craftsmanship. There is room for you.\" —-Jen Hatmaker",
+				"text": "There is no scarcity in creativity. The world always needs good offerings. We cannot have to much beauty. There is no such thing as too much wisdom and literature and story and craftsmanship. There is room for you."
+			},
+			"14607asd0170749959": {
+				"author": "Brene´ Brown",
+				"id": "14607asd0170749959",
+				"originalText": "\"If you own this story you get to write the ending.\" —Brene´ Brown",
+				"text": "If you own this story you get to write the ending."
+			},
+			"1460790640170749959": {
+				"author": "Unknown",
+				"id": "1460790640170749959",
+				"originalText": "\"Create something today even if it sucks.\" —Unknown",
+				"text": "Create something today even if it sucks."
+			},
+			"1460790817774129155": {
+				"author": "Gregory McKeown",
+				"id": "1460790817774129155",
+				"originalText": "\"If you don't prioritize your life, someone else will.\" — Gregory McKeown",
+				"text": "If you don't prioritize your life, someone else will."
+			},
+			"1460790874799968262": {
+				"author": "Henry Ford",
+				"id": "1460790874799968262",
+				"originalText": "\"Anyone who stops learning is old.\" —Henry Ford",
+				"text": "Anyone who stops learning is old."
+			},
+			"1460790944781914115": {
+				"author": "Anna Quindlen",
+				"id": "1460790944781914115",
+				"originalText": "\"The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.\" --Anna Quindlen",
+				"text": "The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself."
+			},
+			"1460791051958976512": {
+				"author": "Peter Drucker",
+				"id": "1460791051958976512",
+				"originalText": "\"There is nothing so useless as doing efficiently that which should not be done at all.\" —Peter Drucker",
+				"text": "There is nothing so useless as doing efficiently that which should not be done at all."
+			},
+			"1460791142388092933": {
+			"author": "Erica Jong",
+			"id": "1460791142388092933",
+			"originalText": "\"You take your life in your own hands, and what happens? A terrible thing, no one to blame.\" —Erica Jong",
+			"text": "You take your life in your own hands, and what happens? A terrible thing, no one to blame."
+			},
+			"1460791205776674817": {
+			"author": "Elbert Hubbard",
+			"id": "1460791205776674817",
+			"originalText": "\"The world is moving so fast that the man who says it can't be done is generally interrupted by someone doing it.\" —Elbert Hubbard",
+			"text": "The world is moving so fast that the man who says it can't be done is generally interrupted by someone doing it."
+			},
+			"1460791329210859520": {
+			"author": "Chris Burkmenn",
+			"id": "1460791329210859520",
+			"originalText": "\"The death of a dream is the day that you stop believing in the work it takes to get there.\" —Chris Burkmenn",
+			"text": "The death of a dream is the day that you stop believing in the work it takes to get there."
+			},
+			"1460791595444277253": {
 			"author": "Unknown",
-			"id": "1460790640170749959",
-			"originalText": "\"Create something today even if it sucks.\" —Unknown",
-			"text": "Create something today even if it sucks."
-		},
-	  "1460790817774129155": {
-		"author": "Gregory McKeown",
-		"id": "1460790817774129155",
-		"originalText": "\"If you don't prioritize your life, someone else will.\" — Gregory McKeown",
-		"text": "If you don't prioritize your life, someone else will."
-	  },
-	  "1460790874799968262": {
-		"author": "Henry Ford",
-		"id": "1460790874799968262",
-		"originalText": "\"Anyone who stops learning is old.\" —Henry Ford",
-		"text": "Anyone who stops learning is old."
-	  },
-	  "1460790944781914115": {
-		"author": "Anna Quindlen",
-		"id": "1460790944781914115",
-		"originalText": "\"The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.\" --Anna Quindlen",
-		"text": "The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself."
-	  },
-	  "1460791051958976512": {
-		"author": "Peter Drucker",
-		"id": "1460791051958976512",
-		"originalText": "\"There is nothing so useless as doing efficiently that which should not be done at all.\" —Peter Drucker",
-		"text": "There is nothing so useless as doing efficiently that which should not be done at all."
-	  },
-	  "1460791142388092933": {
-		"author": "Erica Jong",
-		"id": "1460791142388092933",
-		"originalText": "\"You take your life in your own hands, and what happens? A terrible thing, no one to blame.\" —Erica Jong",
-		"text": "You take your life in your own hands, and what happens? A terrible thing, no one to blame."
-	  },
-	  "1460791205776674817": {
-		"author": "Elbert Hubbard",
-		"id": "1460791205776674817",
-		"originalText": "\"The world is moving so fast that the man who says it can't be done is generally interrupted by someone doing it.\" —Elbert Hubbard",
-		"text": "The world is moving so fast that the man who says it can't be done is generally interrupted by someone doing it."
-	  },
-	  "1460791329210859520": {
-		"author": "Chris Burkmenn",
-		"id": "1460791329210859520",
-		"originalText": "\"The death of a dream is the day that you stop believing in the work it takes to get there.\" —Chris Burkmenn",
-		"text": "The death of a dream is the day that you stop believing in the work it takes to get there."
-	  },
-	  "1460791595444277253": {
-		"author": "Unknown",
-		"id": "1460791595444277253",
-		"originalText": "\"Live as if you were to die tomorrow. Learn as if you were to live forever.\" —Unknown",
-		"text": "Live as if you were to die tomorrow. Learn as if you were to live forever."
-	  },
-	  "1460791742496579588": {
-		"author": "Jana Kingsford",
-		"id": "1460791742496579588",
-		"originalText": "\"Balance is not something you find, it's something you create.\" —Jana Kingsford",
-		"text": "Balance is not something you find, it's something you create."
-	  },
-	  "1460791793209860098": {
-		"author": "Unknown",
-		"id": "1460791793209860098",
-		"originalText": "\"Keep your goals away from the trolls.\" —Unknown",
-		"text": "Keep your goals away from the trolls."
-	  },
-	  "1460791826751778816": {
-		"author": "Andrew Carnegie",
-		"id": "1460791826751778816",
-		"originalText": "\"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.\" —Andrew Carnegie",
-		"text": "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."
-	  },
-	  "1460791873807683591": {
-		"author": "Michael Jordan",
-		"id": "1460791873807683591",
-		"originalText": "\"I can accept failure. Everyone fails at something. But I can’t accept not trying.\" —Michael Jordan",
-		"text": "I can accept failure. Everyone fails at something. But I can’t accept not trying."
-	  },
-	  "1460791907198521346": {
-		"author": "Frank Herbert",
-		"id": "1460791907198521346",
-		"originalText": "\"Without new experiences, something inside of us sleeps. The sleeper must awaken.\" —Frank Herbert",
-		"text": "Without new experiences, something inside of us sleeps. The sleeper must awaken."
-	  },
-	  "1460792038664785922": {
-		"author": "Dr Robert Holden",
-		"id": "1460792038664785922",
-		"originalText": "\"Your relationship with yourself sets the tone for every other relationship you have.\" —Dr. Robert Holden",
-		"text": "Your relationship with yourself sets the tone for every other relationship you have."
-	  },
-	  "1460792102049116162": {
-		"id": "1460792102049116162",
-		"originalText": "“The culture of news is a culture without nuance.” - Maria Popova",
-		"text": "“The culture of news is a culture without nuance.” - Maria Popova"
-	  },
-	  "1460792194332119041": {
-		"author": "Robin Sharma",
-		"id": "1460792194332119041",
-		"originalText": "\"It doesn't matter where you start. Only that you begin.\" —Robin Sharma",
-		"text": "It doesn't matter where you start. Only that you begin."
-	  },
-	  "1460792300758396937": {
-		"author": "Unknown",
-		"id": "1460792300758396937",
-		"originalText": "\"Practice the art of interpreting situations constructively.\" —Unknown",
-		"text": "Practice the art of interpreting situations constructively."
-	  },
-	  "1460792338435829768": {
-		"author": "George Bernard Shaw",
-		"id": "1460792338435829768",
-		"originalText": "\"Progress is impossible without change, and those who cannot change their minds cannot change anything.\" —George Bernard Shaw",
-		"text": "Progress is impossible without change, and those who cannot change their minds cannot change anything."
-	  },
-	  "1460792396501766145": {
-		"author": "Unknown",
-		"id": "1460792396501766145",
-		"originalText": "\"Shipping beats perfection.\" —Unknown",
-		"text": "Shipping beats perfection."
-	  },
-	  "1460792468228608002": {
-		"author": "Steve Jobs",
-		"id": "1460792468228608002",
-		"originalText": "\"Sometimes life hits you in the head with a brick. Don't lose faith.\" —Steve Jobs",
-		"text": "Sometimes life hits you in the head with a brick. Don't lose faith."
-	  },
-	  "1460810484496547840": {
-		"author": "John C Maxwell",
-		"id": "1460810484496547840",
-		"originalText": "\"Your dreams don't work unless you do.\" —John C. Maxwell",
-		"text": "Your dreams don't work unless you do."
-	  },
-	  "1460810683986046977": {
-		"author": "Walt Disney",
-		"id": "1460810683986046977",
-		"originalText": "\"When you’re curious, you find lots of interesting things to do.\" —Walt Disney",
-		"text": "When you’re curious, you find lots of interesting things to do."
-	  },
-	  "1460810747512967170": {
-		"author": "Doris Lessing",
-		"id": "1460810747512967170",
-		"originalText": "\"Whatever you're meant to do, do it now. The conditions are always impossible.\" —Doris Lessing",
-		"text": "Whatever you're meant to do, do it now. The conditions are always impossible."
-	  },
-	  "1460810806057050112": {
-		"author": "Will Rogers",
-		"id": "1460810806057050112",
-		"originalText": "\"Good judgment comes from experience, and a lot of that comes from bad judgment.\" —Will Rogers",
-		"text": "Good judgment comes from experience, and a lot of that comes from bad judgment."
-	  },
-	  "1460810855122026497": {
-		"author": "Henry Ford",
-		"id": "1460810855122026497",
-		"originalText": "\"Don't find fault. Find a remedy.\" —Henry Ford",
-		"text": "Don't find fault. Find a remedy."
-	  },
-	  "1460814694516547585": {
-		"author": "Amelia Earhart",
-		"id": "1460814694516547585",
-		"originalText": "\"The most difficult thing is the decision to act, the rest is merely tenacity.\" — Amelia Earhart",
-		"text": "The most difficult thing is the decision to act, the rest is merely tenacity."
-	  },
-	  "1460822860994277382": {
-		"author": "William James",
-		"id": "1460822860994277382",
-		"originalText": "\"It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome.\" —William James",
-		"text": "It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome."
-	  },
-	  "1460822923548119041": {
-		"author": "Eleanor Roosevelt",
-		"id": "1460822923548119041",
-		"originalText": "\"Do the thing you think you cannot do.\" —Eleanor Roosevelt",
-		"text": "Do the thing you think you cannot do."
-	  },
-	  "1460822998882009092": {
-		"author": "Master Shifu",
-		"id": "1460822998882009092",
-		"originalText": "\"If you only ever do what you can do, you'll never be more than you are.\" - Master Shifu",
-		"text": "If you only ever do what you can do, you'll never be more than you are."
-	  },
-	  "1460992477041606663": {
-		"author": "Juvenal",
-		"id": "1460992477041606663",
-		"originalText": "\"We deem those happy who from the experience of life have learned to bear its ills without being overcome by them.\" —Juvenal",
-		"text": "We deem those happy who from the experience of life have learned to bear its ills without being overcome by them."
-	  },
-	  "1460992608356814849": {
-		"author": "Anne Lamott",
-		"id": "1460992608356814849",
-		"originalText": "\"Reality is unforgivingly complex\" --Anne Lamott",
-		"text": "Reality is unforgivingly complex"
-	  },
-	  "1460993677937938432": {
-		"author": "Jen Hatmaker",
-		"id": "1460993677937938432",
-		"originalText": "\"There is no scarcity in creativity. The world always need good offerings. We cannot have too much beauty.\" - Jen Hatmaker",
-		"text": "There is no scarcity in creativity. The world always need good offerings. We cannot have too much beauty."
-	  },
-	  "1460993755515813888": {
-		"author": "Jen Hatmaker",
-		"id": "1460993755515813888",
-		"originalText": "\"There is no such thing as too much wisdom and literature and story and craftsmanship. There is room for you.\" - Jen Hatmaker",
-		"text": "There is no such thing as too much wisdom and literature and story and craftsmanship. There is room for you."
-	  },
-	  "1460993833357877251": {
-		"author": "Grant Cardone",
-		"id": "1460993833357877251",
-		"originalText": "\"Courage isn't the absence of fear, but an urgent impulse to do something despite fear.\" —Grant Cardone",
-		"text": "Courage isn't the absence of fear, but an urgent impulse to do something despite fear."
-	  },
-	  "1460993942871105542": {
-		"author": "Haemin Sunim",
-		"id": "1460993942871105542",
-		"originalText": "\"Rather than repeating, 'It is awful, it is awful' stare straight into the awful feeling. Quietly.\" - Haemin Sunim",
-		"text": "Rather than repeating, 'It is awful, it is awful' stare straight into the awful feeling. Quietly."
-	  },
-	  "1460994032146923521": {
-		"author": "Epictetus",
-		"id": "1460994032146923521",
-		"originalText": "\"Don’t let the force of an impression when it first hit you knock you off your feet; just say to it: Hold on a moment; let me see who you are and what you represent. Let me put you to the test.\" - Epictetus",
-		"text": "Don’t let the force of an impression when it first hit you knock you off your feet; just say to it: Hold on a moment; let me see who you are and what you represent. Let me put you to the test."
-	  },
-	  "1460994124954300421": {
-		"author": "Brant Hansen",
-		"id": "1460994124954300421",
-		"originalText": "\"Are we going to live in perpetual shock at the nature of man?\" - Brant Hansen",
-		"text": "Are we going to live in perpetual shock at the nature of man?"
-	  },
-	  "1460994231573495809": {
-		"author": "Elon Musk",
-		"id": "1460994231573495809",
-		"originalText": "\"When something is important enough, you do it even if the odds are not in your favor.\" —Elon Musk",
-		"text": "When something is important enough, you do it even if the odds are not in your favor."
-	  },
-	  "1460994380659974144": {
-		"author": "Haemin Sunim",
-		"id": "1460994380659974144",
-		"originalText": "\"Enjoy the process of learning something new. Don’t do it just for the end. Delight in the means, too.\" -Haemin Sunim",
-		"text": "Enjoy the process of learning something new. Don’t do it just for the end. Delight in the means, too."
-	  },
-	  "1460994424486301698": {
-		"author": "Walter Anderson",
-		"id": "1460994424486301698",
-		"originalText": "\"Nothing diminishes anxiety faster than action.\" —Walter Anderson",
-		"text": "Nothing diminishes anxiety faster than action."
-	  },
-	  "1460994491863613443": {
-		"author": "Anonymous",
-		"id": "1460994491863613443",
-		"originalText": "\"Slow progress is better than no progress.\" —Anonymous",
-		"text": "Slow progress is better than no progress."
-	  },
-	  "1460994550126694405": {
-		"author": "Seneca",
-		"id": "1460994550126694405",
-		"originalText": "\"No person has the power to have everything they want, but it is in their power not to want what they don't have, and to cheerfully put to good use what they do have\" - Seneca",
-		"text": "No person has the power to have everything they want, but it is in their power not to want what they don't have, and to cheerfully put to good use what they do have"
-	  },
-	  "1460994599078354945": {
-		"author": "Unknown",
-		"id": "1460994599078354945",
-		"originalText": "\"If you're not doing what you love, you're wasting your time.\" —Unknown",
-		"text": "If you're not doing what you love, you're wasting your time."
-	  },
-	  "1460994661737107457": {
-		"author": "David Allen",
-		"id": "1460994661737107457",
-		"originalText": "\"You have to think about your stuff more than you realize but not as much as you're afraid you might.\" - David Allen",
-		"text": "You have to think about your stuff more than you realize but not as much as you're afraid you might."
-	  },
-	  "1460994729852563457": {
-		"author": "Lucia Gonzalez Venzano",
-		"id": "1460994729852563457",
-		"originalText": "\"I feel so good I don't mind getting older\" - Lucia Gonzalez Venzano",
-		"text": "I feel so good I don't mind getting older"
-	  },
-	  "1460994762131918851": {
-		"author": "Sara Blakely",
-		"id": "1460994762131918851",
-		"originalText": "\"Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.\" —Sara Blakely",
-		"text": "Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else."
-	  },
-	  "1460994852297089033": {
-		"author": "Miyamoto Musashi",
-		"id": "1460994852297089033",
-		"originalText": "\"Think lightly of yourself and deeply of the world.\" —Miyamoto Musashi",
-		"text": "Think lightly of yourself and deeply of the world."
-	  },
-	  "1460994983725465605": {
-		"author": "Anonymous",
-		"id": "1460994983725465605",
-		"originalText": "\"There is an absolute truth out there, we just can't know what it is. But we can believe it.\" - Anonymous",
-		"text": "There is an absolute truth out there, we just can't know what it is. But we can believe it."
-	  },
-	  "1460995076402802689": {
-		"author": "Sven Goran Eriksson",
-		"id": "1460995076402802689",
-		"originalText": "\"The greatest barrier to success is the fear of failure.\" —Sven Goran Eriksson",
-		"text": "The greatest barrier to success is the fear of failure."
-	  },
-	  "1460995122913419264": {
-		"author": "Unknown",
-		"id": "1460995122913419264",
-		"originalText": "\"If you stumble make it part of the dance.\" —Unknown",
-		"text": "If you stumble make it part of the dance."
-	  },
-	  "1461015749279973376": {
-		"author": "Unknown",
-		"id": "1461015749279973376",
-		"originalText": "\"Obsessed is a word that the lazy use to describe the dedicated.\" —Unknown",
-		"text": "Obsessed is a word that the lazy use to describe the dedicated."
-	  },
-	  "1461015869144764417": {
-		"author": "Stephen Covey",
-		"id": "1461015869144764417",
-		"originalText": "\"Anything less than a conscious commitment to the important is an unconscious commitment to the unimportant.\" - Stephen Covey",
-		"text": "Anything less than a conscious commitment to the important is an unconscious commitment to the unimportant."
-	  },
-	  "1461015918289436673": {
-		"author": "Earl Nightingale",
-		"id": "1461015918289436673",
-		"originalText": "\"Your world is a living expression of how you are using—and have used—your mind.\" —Earl Nightingale",
-		"text": "Your world is a living expression of how you are using—and have used—your mind."
-	  },
-	  "1461015962082177027": {
-		"author": "Viktor E Fankl",
-		"id": "1461015962082177027",
-		"originalText": "\"Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.\" - Viktor E. Fankl",
-		"text": "Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."
-	  },
-	  "1461039211155365891": {
-		"author": "Unknown",
-		"id": "1461039211155365891",
-		"originalText": "\"Though you cannot go back and start again, you can start from now and have a brand new end.\" —Unknown",
-		"text": "Though you cannot go back and start again, you can start from now and have a brand new end."
-	  },
-	  "1461039253668851713": {
-		"author": "Ralph Waldo Emerson",
-		"id": "1461039253668851713",
-		"originalText": "\"Don't be pushed by your problems. Be led by your dreams.\" —Ralph Waldo Emerson",
-		"text": "Don't be pushed by your problems. Be led by your dreams."
-	  },
-	  "1461039322518339586": {
-		"author": "Dalai Lama",
-		"id": "1461039322518339586",
-		"originalText": "\"Remember that not getting what you want is sometimes a wonderful stroke of luck.\" —Dalai Lama",
-		"text": "Remember that not getting what you want is sometimes a wonderful stroke of luck."
-	  },
-	  "1461039368676667392": {
-		"author": "Unknown",
-		"id": "1461039368676667392",
-		"originalText": "\"A head full of fears has no space for dreams.\" —Unknown",
-		"text": "A head full of fears has no space for dreams."
-	  },
-	  "1461039409491419139": {
-		"author": "Suzy Kassem",
-		"id": "1461039409491419139",
-		"originalText": "\"Doubt kills more dreams than failure ever will.\" —Suzy Kassem",
-		"text": "Doubt kills more dreams than failure ever will."
-	  },
-	  "1461039445092622344": {
-		"author": "Walt Disney",
-		"id": "1461039445092622344",
-		"originalText": "\"The way to get started is to quit talking and begin doing.\" —Walt Disney",
-		"text": "The way to get started is to quit talking and begin doing."
-	  },
-	  "1461039536436232194": {
-		"author": "Mary Lou Retton",
-		"id": "1461039536436232194",
-		"originalText": "\"Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.\" —Mary Lou Retton",
-		"text": "Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you."
-	  },
-	  "1461039573878726656": {
-		"author": "Bob Marley",
-		"id": "1461039573878726656",
-		"originalText": "\"You never know how strong you are, until being strong is your only choice.\" —Bob Marley",
-		"text": "You never know how strong you are, until being strong is your only choice."
-	  },
-	  "1461039626815082496": {
-		"author": "Booker T Washington",
-		"id": "1461039626815082496",
-		"originalText": "\"If you want to lift yourself up, lift up someone else.\" —Booker T. Washington",
-		"text": "If you want to lift yourself up, lift up someone else."
-	  },
-	  "1461039668770717699": {
-		"author": "Les Brown",
-		"id": "1461039668770717699",
-		"originalText": "\"Forgive yourself for your faults and your mistakes and move on.\" —Les Brown",
-		"text": "Forgive yourself for your faults and your mistakes and move on."
-	  },
-	  "1461039742275911683": {
-		"author": "Arnold Schwarzenegger",
-		"id": "1461039742275911683",
-		"originalText": "\"Strength does not come from winning. Your struggles develop your strengths.\" —Arnold Schwarzenegger",
-		"text": "Strength does not come from winning. Your struggles develop your strengths."
-	  },
-	  "1461039878590775299": {
-		"author": "Alan Cohen",
-		"id": "1461039878590775299",
-		"originalText": "\"There is virtue in work and there is virtue in rest. Use both and overlook neither.\" —Alan Cohen",
-		"text": "There is virtue in work and there is virtue in rest. Use both and overlook neither."
-	  },
-	  "1461039967543578628": {
-		"author": "JK Rowling",
-		"id": "1461039967543578628",
-		"originalText": "\"It is our choices that show what we truly are, far more than our abilities.\" —JK Rowling",
-		"text": "It is our choices that show what we truly are, far more than our abilities."
-	  },
-	  "1461040028973371398": {
-		"author": "Marcus Aurelius",
-		"id": "1461040028973371398",
-		"originalText": "\"You have power over your mind, not outside events. Realize this, and you will find strength.\" —Marcus Aurelius",
-		"text": "You have power over your mind, not outside events. Realize this, and you will find strength."
-	  },
-	  "1461040098540077058": {
-		"author": "Anne Sweeney",
-		"id": "1461040098540077058",
-		"originalText": "\"Define success on your own terms, achieve it by your own rules, and build a life you’re proud to live.\" —Anne Sweeney",
-		"text": "Define success on your own terms, achieve it by your own rules, and build a life you’re proud to live."
-	  },
-	  "1461040133268926465": {
-		"author": "Roy Goodman",
-		"id": "1461040133268926465",
-		"originalText": "\"Happiness is a way of travel. Not a destination.\" —Roy Goodman",
-		"text": "Happiness is a way of travel. Not a destination."
-	  },
-	  "1461040201023692801": {
-		"author": "Oprah",
-		"id": "1461040201023692801",
-		"originalText": "\"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.\" —Oprah",
-		"text": "Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough."
-	  },
-	  "1461040230136377350": {
-		"author": "Helen Mirren",
-		"id": "1461040230136377350",
-		"originalText": "\"Listen to your instinct, grab the opportunity when it presents itself and then give it your all.\" —Helen Mirren",
-		"text": "Listen to your instinct, grab the opportunity when it presents itself and then give it your all."
-	  },
-	  "1461040278249246720": {
-		"author": "Walt Disney",
-		"id": "1461040278249246720",
-		"originalText": "\"When you’re curious, you find lots of interesting things to do.\" —Walt Disney",
-		"text": "When you’re curious, you find lots of interesting things to do."
-	  },
-	  "1461040305734443011": {
-		"author": "Earl Nightingale",
-		"id": "1461040305734443011",
-		"originalText": "\"When you judge others, you do not define them; you define yourself.\" —Earl Nightingale",
-		"text": "When you judge others, you do not define them; you define yourself."
-	  },
-	  "1461040384495087616": {
-		"author": "Chris Burkmenn",
-		"id": "1461040384495087616",
-		"originalText": "\"The death of a dream is the day that you stop believing in the work it takes to get there.\" —Chris Burkmenn",
-		"text": "The death of a dream is the day that you stop believing in the work it takes to get there."
-	  },
-	  "1461040422772371460": {
-		"author": "Eleanor Roosevelt",
-		"id": "1461040422772371460",
-		"originalText": "\"It takes as much energy to wish as it does to plan.\" —Eleanor Roosevelt",
-		"text": "It takes as much energy to wish as it does to plan."
-	  },
-	  "1461040466544062464": {
-		"author": "Ivan Turgenev",
-		"id": "1461040466544062464",
-		"originalText": "\"If we wait for the moment when everything, absolutely everything is ready, we shall never begin.\" —Ivan Turgenev",
-		"text": "If we wait for the moment when everything, absolutely everything is ready, we shall never begin."
-	  },
-	  "1461040504632610824": {
-		"author": "Aristotle",
-		"id": "1461040504632610824",
-		"originalText": "\"Pleasure in the job puts perfection in the work.\" —Aristotle",
-		"text": "Pleasure in the job puts perfection in the work."
-	  },
-	  "1461040542595227649": {
-		"author": "Paulo Coelho",
-		"id": "1461040542595227649",
-		"originalText": "\"Be brave. Take risks. Nothing can substitute experience.\" —Paulo Coelho",
-		"text": "Be brave. Take risks. Nothing can substitute experience."
-	  },
-	  "1461040581744869376": {
-		"author": "Unknown",
-		"id": "1461040581744869376",
-		"originalText": "\"Let go of those who bring you down and surround yourself with those who bring out the best in you.\" —Unknown",
-		"text": "Let go of those who bring you down and surround yourself with those who bring out the best in you."
-	  },
-	  "1461040624086355972": {
-		"author": "Lao Tzu",
-		"id": "1461040624086355972",
-		"originalText": "\"A good traveler has no fixed plans, and is not intent on arriving.\" - Lao Tzu",
-		"text": "A good traveler has no fixed plans, and is not intent on arriving."
-	  },
-	  "1461040669313568770": {
-		"author": "Seneca",
-		"id": "1461040669313568770",
-		"originalText": "\"As long as you live, keep learning how to live.\" - Seneca",
-		"text": "As long as you live, keep learning how to live."
-	  },
-	  "1461040700011651075": {
-		"author": "Mark Twain",
-		"id": "1461040700011651075",
-		"originalText": "\"The man who does not read has no advantage over the man who cannot read.\" - Mark Twain",
-		"text": "The man who does not read has no advantage over the man who cannot read."
-	  },
-	  "1461041139885084672": {
-		"author": "Unknown",
-		"id": "1461041139885084672",
-		"originalText": "\"It's not about being the best. It's about being better than you were yesterday.\" —Unknown",
-		"text": "It's not about being the best. It's about being better than you were yesterday."
-	  },
-	  "1461041216120778754": {
-		"author": "James Clear",
-		"id": "1461041216120778754",
-		"originalText": "\"Success usually comes down to choosing the pain of discipline over the ease of distraction.\" - James Clear",
-		"text": "Success usually comes down to choosing the pain of discipline over the ease of distraction."
-	  },
-	  "1461041263243759621": {
-		"id": "1461041263243759621",
-		"originalText": "“It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.” – Warren Buffett",
-		"text": "“It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.” – Warren Buffett"
-	  },
-	  "1461041295565090818": {
-		"author": "Jen Sincero",
-		"id": "1461041295565090818",
-		"originalText": "\"If you want to live a life you’ve never lived, you have to do things you’ve never done.\" —Jen Sincero",
-		"text": "If you want to live a life you’ve never lived, you have to do things you’ve never done."
-	  },
-	  "1461041373377822720": {
-		"author": "Lisa M Hayes",
-		"id": "1461041373377822720",
-		"originalText": "\"Be careful how you are talking to yourself because you are listening.\" —Lisa M. Hayes",
-		"text": "Be careful how you are talking to yourself because you are listening."
-	  },
-	  "1461041405309046784": {
-		"author": "Naval Ravikant",
-		"id": "1461041405309046784",
-		"originalText": "\"Self-esteem is just the reputation that you have with yourself. You'll always know.\" - Naval Ravikant",
-		"text": "Self-esteem is just the reputation that you have with yourself. You'll always know."
-	  },
-	  "1461041442604810240": {
-		"author": "Naval Ravikant",
-		"id": "1461041442604810240",
-		"originalText": "\"Suffering is a moment of clarity, when you can no longer deny the truth of a situation and are forced into uncomfortable change.\" - Naval Ravikant",
-		"text": "Suffering is a moment of clarity, when you can no longer deny the truth of a situation and are forced into uncomfortable change."
-	  },
-	  "1461041496799399937": {
-		"author": "Roald Dahl",
-		"id": "1461041496799399937",
-		"originalText": "\"A little nonsense now and then is relished by the wisest people.\" —Roald Dahl",
-		"text": "A little nonsense now and then is relished by the wisest people."
-	  },
-	  "1461055892405690371": {
-		"author": "Mike Maples Jr",
-		"id": "1461055892405690371",
-		"originalText": "\"Ego is about who’s right. Truth is about what’s right.\" - Mike Maples Jr.",
-		"text": "Ego is about who’s right. Truth is about what’s right."
-	  },
-	  "1461056386943442946": {
-		"author": "Arthur Ashe",
-		"id": "1461056386943442946",
-		"originalText": "\"Start where you are. Use what you have. Do what you can.\" —Arthur Ashe",
-		"text": "Start where you are. Use what you have. Do what you can."
-	  },
-	  "1461056616984289284": {
-		"id": "1461056616984289284",
-		"originalText": "“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case you fail by default.”—J. K. Rowling",
-		"text": "“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case you fail by default.”—J. K. Rowling"
-	  },
-	  "1461056669320769541": {
-		"author": "Henry David Thoreau",
-		"id": "1461056669320769541",
-		"originalText": "\"A man is rich in proportion to the number of things he can afford to let alone.\" - Henry David Thoreau",
-		"text": "A man is rich in proportion to the number of things he can afford to let alone."
-	  },
-	  "1461063337836380160": {
-		"author": "Mary EwingMulligan",
-		"id": "1461063337836380160",
-		"originalText": "\"Wine is two products. Some wine is just a beverage, and it should taste good - period. Other wine is an art form that fascinates and intrigues people. Many people that make wine want you to think that their wines are in the second category...\" - Mary Ewing-Mulligan",
-		"text": "Wine is two products. Some wine is just a beverage, and it should taste good - period. Other wine is an art form that fascinates and intrigues people. Many people that make wine want you to think that their wines are in the second category..."
-	  },
-	  "1461063400297885698": {
-		"author": "Leonard Cohen",
-		"id": "1461063400297885698",
-		"originalText": "\"There’s a crack in everything. That’s how the light gets in.\" - Leonard Cohen",
-		"text": "There’s a crack in everything. That’s how the light gets in."
-	  },
-	  "1461063450478530560": {
-		"author": "Muhammad Ali",
-		"id": "1461063450478530560",
-		"originalText": "\"Impossible is just a big word thrown around by small men and women who find it easier to live in the world they've been given than to explore the power they have to change it.\" —Muhammad Ali",
-		"text": "Impossible is just a big word thrown around by small men and women who find it easier to live in the world they've been given than to explore the power they have to change it."
-	  },
-	  "1461063516094287875": {
-		"author": "Bertrand Russell",
-		"id": "1461063516094287875",
-		"originalText": "\"In all affairs, it’s a healthy thing now and then to hang a question mark on the things you have long taken for granted.\" —Bertrand Russell",
-		"text": "In all affairs, it’s a healthy thing now and then to hang a question mark on the things you have long taken for granted."
-	  },
-	  "1461063548939878402": {
-		"author": "Elbert Hubbard",
-		"id": "1461063548939878402",
-		"originalText": "\"The greatest mistake you can make in life is to be continually fearing you will make one.\" —Elbert Hubbard",
-		"text": "The greatest mistake you can make in life is to be continually fearing you will make one."
-	  },
-	  "1461063582972452865": {
-		"author": "Les Brown",
-		"id": "1461063582972452865",
-		"originalText": "\"Other people's opinion of you does not have to become your reality.\" —Les Brown",
-		"text": "Other people's opinion of you does not have to become your reality."
-	  },
-	  "1461063607794298882": {
-		"author": "Amelia Earhart",
-		"id": "1461063607794298882",
-		"originalText": "\"Decide whether or not the goal is worth the risks involved. If it is, stop worrying.\" —Amelia Earhart",
-		"text": "Decide whether or not the goal is worth the risks involved. If it is, stop worrying."
-	  },
-	  "1461063654707634182": {
-		"author": "Henry Ford",
-		"id": "1461063654707634182",
-		"originalText": "\"One of the greatest discoveries a person makes is to find they can do what they were afraid they couldn't do.\" —Henry Ford",
-		"text": "One of the greatest discoveries a person makes is to find they can do what they were afraid they couldn't do."
-	  },
-	  "1461063687435812866": {
-		"author": "Carl Sagan",
-		"id": "1461063687435812866",
-		"originalText": "\"Somewhere, something incredible is waiting to be known.\" —Carl Sagan",
-		"text": "Somewhere, something incredible is waiting to be known."
-	  },
-	  "1461063749339529216": {
-		"author": "KD Trey",
-		"id": "1461063749339529216",
-		"originalText": "\"Hard work beats talent when talent fails to work hard.\" —KD Trey",
-		"text": "Hard work beats talent when talent fails to work hard."
-	  },
-	  "1461063786811461633": {
-		"author": "Elbert Hubbard",
-		"id": "1461063786811461633",
-		"originalText": "\"To escape criticism: do nothing, say nothing, be nothing.\" —Elbert Hubbard",
-		"text": "To escape criticism: do nothing, say nothing, be nothing."
-	  },
-	  "1461063853714788355": {
-		"author": "Gretchen Rubin",
-		"id": "1461063853714788355",
-		"originalText": "\"What you do everyday matters more than what you do once in a while.\" —Gretchen Rubin",
-		"text": "What you do everyday matters more than what you do once in a while."
-	  },
-	  "1461063888569462784": {
-		"author": "Mary Oliver",
-		"id": "1461063888569462784",
-		"originalText": "\"The patterns of our lives reveal us. Our habits measure us.\" —Mary Oliver",
-		"text": "The patterns of our lives reveal us. Our habits measure us."
-	  },
-	  "1461063924728561665": {
-		"author": "Elbert Hubbard",
-		"id": "1461063924728561665",
-		"originalText": "\"The happiness of this life depends less on what befalls you than the way in which you take it.\" —Elbert Hubbard",
-		"text": "The happiness of this life depends less on what befalls you than the way in which you take it."
-	  },
-	  "1461063977304158215": {
-		"author": "Abraham Maslow",
-		"id": "1461063977304158215",
-		"originalText": "\"In any given moment we have two options: to step forward into growth or back into safety.\" —Abraham Maslow",
-		"text": "In any given moment we have two options: to step forward into growth or back into safety."
-	  },
-	  "1461064021365297153": {
-		"author": "Scott Adams",
-		"id": "1461064021365297153",
-		"originalText": "\"There’s no such things as a small act of kindness. Every act creates a ripple with no logical end.\" —Scott Adams",
-		"text": "There’s no such things as a small act of kindness. Every act creates a ripple with no logical end."
-	  },
-	  "1461064077573124098": {
-		"author": "Carlos Castaneda",
-		"id": "1461064077573124098",
-		"originalText": "\"What weakens us is feeling offended by the deeds and misdeeds of our fellow men and women. Our self-importance requires that we spend most of our lives offended by someone.\" —Carlos Castaneda",
-		"text": "What weakens us is feeling offended by the deeds and misdeeds of our fellow men and women. Our self-importance requires that we spend most of our lives offended by someone."
-	  },
-	  "1461064105981202438": {
-		"author": "Eric Hoffer",
-		"id": "1461064105981202438",
-		"originalText": "\"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.\" —Eric Hoffer",
-		"text": "In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists."
-	  },
-	  "1461064142001901572": {
-		"author": "Dalai Lama",
-		"id": "1461064142001901572",
-		"originalText": "\"Be kind whenever possible. It is always possible.\" —Dalai Lama",
-		"text": "Be kind whenever possible. It is always possible."
-	  },
-	  "1461064179486388225": {
-		"author": "Dean Smith",
-		"id": "1461064179486388225",
-		"originalText": "\"What do you do with a mistake: recognize it, admit it, learn from it, forget it.\" —Dean Smith",
-		"text": "What do you do with a mistake: recognize it, admit it, learn from it, forget it."
-	  },
-	  "1461064451692503041": {
-		"author": "Holstee",
-		"id": "1461064451692503041",
-		"originalText": "\"This is your life. Do what you love, and do it often.\" —Holstee",
-		"text": "This is your life. Do what you love, and do it often."
-	  },
-	  "1461064489948700673": {
-		"author": "Epictetus",
-		"id": "1461064489948700673",
-		"originalText": "\"First say to yourself what you would be; and then do what you have to do.\" —Epictetus",
-		"text": "First say to yourself what you would be; and then do what you have to do."
-	  },
-	  "1461064522257485825": {
-		"author": "Marcus Aurelius",
-		"id": "1461064522257485825",
-		"originalText": "\"Waste no more time arguing about what a good person should be. Be one.\" —Marcus Aurelius",
-		"text": "Waste no more time arguing about what a good person should be. Be one."
-	  },
-	  "1461064553257529350": {
-		"author": "Will Rogers",
-		"id": "1461064553257529350",
-		"originalText": "\"Don't let yesterday take up too much of today.\" —Will Rogers",
-		"text": "Don't let yesterday take up too much of today."
-	  },
-	  "1461064595397771264": {
-		"author": "Unknown",
-		"id": "1461064595397771264",
-		"originalText": "\"Be the type of person you want to meet.\" —Unknown",
-		"text": "Be the type of person you want to meet."
-	  },
-	  "1461064720773881856": {
-		"author": "Chris Guillebeau",
-		"id": "1461064720773881856",
-		"originalText": "\"You don't have to live your life the way other people expect you to.\" —Chris Guillebeau",
-		"text": "You don't have to live your life the way other people expect you to."
-	  },
-	  "1461064751786565632": {
-		"author": "Andrew Carnegie",
-		"id": "1461064751786565632",
-		"originalText": "\"People who are unable to motivate themselves must be content with mediocrity no matter how impressive their other talents.\" —Andrew Carnegie",
-		"text": "People who are unable to motivate themselves must be content with mediocrity no matter how impressive their other talents."
-	  },
-	  "1461064776793018370": {
-		"author": "Theodore Isaac Rubin",
-		"id": "1461064776793018370",
-		"originalText": "\"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.\" —Theodore Isaac Rubin",
-		"text": "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."
-	  },
-	  "1461064826076086272": {
-		"author": "T Harv Eker",
-		"id": "1461064826076086272",
-		"originalText": "\"Successful people have fear, successful people have doubts, and successful people have worry. They just don’t let these feelings stop them.\" —T. Harv Eker",
-		"text": "Successful people have fear, successful people have doubts, and successful people have worry. They just don’t let these feelings stop them."
-	  },
-	  "1461064924730253314": {
-		"author": "Mihaly Csikszentmihalyi",
-		"id": "1461064924730253314",
-		"originalText": "\"Paradoxically, a self-centered self cannot become more complex, because all the psychic energy at its disposal is invested in fulfilling its current goals, instead of learning about new ones.\"\n- Mihaly Csikszentmihalyi",
-		"text": "Paradoxically, a self-centered self cannot become more complex, because all the psychic energy at its disposal is invested in fulfilling its current goals, instead of learning about new ones."
-	  },
-	  "1461065078074056705": {
-		"author": "Dwight D Eisenhower",
-		"id": "1461065078074056705",
-		"originalText": "\"Never waste a minute thinking about people you don't like.\" —Dwight D. Eisenhower",
-		"text": "Never waste a minute thinking about people you don't like."
-	  },
-	  "1461091527539625984": {
-		"author": "Zig Ziglar",
-		"id": "1461091527539625984",
-		"originalText": "\"You will get all you want in life if you help enough other people get what they want.\" —Zig Ziglar",
-		"text": "You will get all you want in life if you help enough other people get what they want."
-	  },
-	  "1461134364280950786": {
-		"author": "David Ogilvy",
-		"id": "1461134364280950786",
-		"originalText": "\"Fear leads to self-doubt which is the worst enemy of creativity.\" —David Ogilvy",
-		"text": "Fear leads to self-doubt which is the worst enemy of creativity."
-	  },
-	  "1461134429724700674": {
-		"author": "Charles Swindoll",
-		"id": "1461134429724700674",
-		"originalText": "\"We are all faced with a series of great opportunities brilliantly disguised as impossible situations.\" —Charles Swindoll",
-		"text": "We are all faced with a series of great opportunities brilliantly disguised as impossible situations."
-	  },
-	  "1461134471013359617": {
-		"author": "Amy Poehler",
-		"id": "1461134471013359617",
-		"originalText": "\"There’s power in looking silly and not caring that you do.\" —Amy Poehler",
-		"text": "There’s power in looking silly and not caring that you do."
-	  },
-	  "1461138029880303619": {
-		"author": "Sarah Ban Breathnach",
-		"id": "1461138029880303619",
-		"originalText": "\"The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do.\" —Sarah Ban Breathnach",
-		"text": "The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do."
-	  },
-	  "1461138075929567236": {
-		"author": "Howard W Newton",
-		"id": "1461138075929567236",
-		"originalText": "\"Tact is the art of making a point without making an enemy.\" —Howard W. Newton",
-		"text": "Tact is the art of making a point without making an enemy."
-	  },
-	  "1461138111447146496": {
-		"id": "1461138111447146496",
-		"originalText": "\"The single biggest problem with communication is the illusion that it has taken place.”\n\n – George Bernard Shaw",
-		"text": "\"The single biggest problem with communication is the illusion that it has taken place.”\n\n – George Bernard Shaw"
-	  },
-	  "1461138322626007042": {
-		"author": "Coach McMillan",
-		"id": "1461138322626007042",
-		"originalText": "\"You cannot start the next chapter of your life if you keep re-reading the last one.\" —Coach McMillan",
-		"text": "You cannot start the next chapter of your life if you keep re-reading the last one."
-	  },
-	  "1461138422064549888": {
-		"author": "Pablo Picasso",
-		"id": "1461138422064549888",
-		"originalText": "\"Art washes away from the soul the dust of everyday life.\" —Pablo Picasso",
-		"text": "Art washes away from the soul the dust of everyday life."
-	  },
-	  "1461138463328141317": {
-		"author": "Unknown",
-		"id": "1461138463328141317",
-		"originalText": "\"Happiness is not the absence of problems, it's the ability to deal with them.\" —Unknown",
-		"text": "Happiness is not the absence of problems, it's the ability to deal with them."
-	  },
-	  "1461138495888445444": {
-		"author": "Marilyn Monroe",
-		"id": "1461138495888445444",
-		"originalText": "\"Sometimes good things fall apart so better things can fall together.\" —Marilyn Monroe",
-		"text": "Sometimes good things fall apart so better things can fall together."
-	  },
-	  "1461138528415277057": {
-		"author": "Joseph Campbell",
-		"id": "1461138528415277057",
-		"originalText": "\"Find a place inside where there's joy, and the joy will burn out the pain.\" —Joseph Campbell",
-		"text": "Find a place inside where there's joy, and the joy will burn out the pain."
-	  },
-	  "1461138555447611399": {
-		"author": "Toni Morrison",
-		"id": "1461138555447611399",
-		"originalText": "\"For me, success is not a public thing. It's a private thing. It's when you have fewer and fewer regrets.\" - Toni Morrison",
-		"text": "For me, success is not a public thing. It's a private thing. It's when you have fewer and fewer regrets."
-	  },
-	  "1461138722980708352": {
-		"author": "James Clear",
-		"id": "1461138722980708352",
-		"originalText": "\"The more you create, the more powerful you become. The more you consume, the more powerful others become.\" –James Clear",
-		"text": "The more you create, the more powerful you become. The more you consume, the more powerful others become."
-	  },
-	  "1461138761954127874": {
-		"author": "Jim Rohn",
-		"id": "1461138761954127874",
-		"originalText": "\"Your life doesn’t get better by chance, it gets better by change.\" —Jim Rohn",
-		"text": "Your life doesn’t get better by chance, it gets better by change."
-	  },
-	  "1461138803528065027": {
-		"author": "Frank Peretti",
-		"id": "1461138803528065027",
-		"originalText": "\"Don’t be perfect, just keep getting better.\" —Frank Peretti",
-		"text": "Don’t be perfect, just keep getting better."
-	  },
-	  "1461138876802613254": {
-		"author": "Reinhold Niebuhr",
-		"id": "1461138876802613254",
-		"originalText": "\"Change is the essence of life; be willing to surrender what you are for what you could become.\" —Reinhold Niebuhr",
-		"text": "Change is the essence of life; be willing to surrender what you are for what you could become."
-	  },
-	  "1461371701220966402": {
-		"author": "Ian Maclaren",
-		"id": "1461371701220966402",
-		"originalText": "\"Be kind, everyone you meet is fighting a hard battle.\" --Ian Maclaren",
-		"text": "Be kind, everyone you meet is fighting a hard battle."
-	  },
-	  "1461371958889631744": {
-		"author": "Daniel Laporte",
-		"id": "1461371958889631744",
-		"originalText": "\"You got this. Make it happen.\" --Daniel Laporte",
-		"text": "You got this. Make it happen."
-	  },
-	  "1461372198732505089": {
-		"author": "Mary Angelou",
-		"id": "1461372198732505089",
-		"originalText": "\"Nothing can dim the light which shines from within.\" --Mary Angelou",
-		"text": "Nothing can dim the light which shines from within."
-	  },
-	  "1461372388424118273": {
-		"author": "Albert Einstein",
-		"id": "1461372388424118273",
-		"originalText": "\"Creativity is intelligence having fun.\" --Albert Einstein",
-		"text": "Creativity is intelligence having fun."
-	  }
+			"id": "1460791595444277253",
+			"originalText": "\"Live as if you were to die tomorrow. Learn as if you were to live forever.\" —Unknown",
+			"text": "Live as if you were to die tomorrow. Learn as if you were to live forever."
+			},
+			"1460791742496579588": {
+			"author": "Jana Kingsford",
+			"id": "1460791742496579588",
+			"originalText": "\"Balance is not something you find, it's something you create.\" —Jana Kingsford",
+			"text": "Balance is not something you find, it's something you create."
+			},
+			"1460791793209860098": {
+			"author": "Unknown",
+			"id": "1460791793209860098",
+			"originalText": "\"Keep your goals away from the trolls.\" —Unknown",
+			"text": "Keep your goals away from the trolls."
+			},
+			"1460791826751778816": {
+			"author": "Andrew Carnegie",
+			"id": "1460791826751778816",
+			"originalText": "\"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.\" —Andrew Carnegie",
+			"text": "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."
+			},
+			"1460791873807683591": {
+			"author": "Michael Jordan",
+			"id": "1460791873807683591",
+			"originalText": "\"I can accept failure. Everyone fails at something. But I can’t accept not trying.\" —Michael Jordan",
+			"text": "I can accept failure. Everyone fails at something. But I can’t accept not trying."
+			},
+			"1460791907198521346": {
+			"author": "Frank Herbert",
+			"id": "1460791907198521346",
+			"originalText": "\"Without new experiences, something inside of us sleeps. The sleeper must awaken.\" —Frank Herbert",
+			"text": "Without new experiences, something inside of us sleeps. The sleeper must awaken."
+			},
+			"1460792038664785922": {
+			"author": "Dr Robert Holden",
+			"id": "1460792038664785922",
+			"originalText": "\"Your relationship with yourself sets the tone for every other relationship you have.\" —Dr. Robert Holden",
+			"text": "Your relationship with yourself sets the tone for every other relationship you have."
+			},
+			"1460792102049116162": {
+			"id": "1460792102049116162",
+			"originalText": "“The culture of news is a culture without nuance.” - Maria Popova",
+			"text": "“The culture of news is a culture without nuance.” - Maria Popova"
+			},
+			"1460792194332119041": {
+			"author": "Robin Sharma",
+			"id": "1460792194332119041",
+			"originalText": "\"It doesn't matter where you start. Only that you begin.\" —Robin Sharma",
+			"text": "It doesn't matter where you start. Only that you begin."
+			},
+			"1460792300758396937": {
+			"author": "Unknown",
+			"id": "1460792300758396937",
+			"originalText": "\"Practice the art of interpreting situations constructively.\" —Unknown",
+			"text": "Practice the art of interpreting situations constructively."
+			},
+			"1460792338435829768": {
+			"author": "George Bernard Shaw",
+			"id": "1460792338435829768",
+			"originalText": "\"Progress is impossible without change, and those who cannot change their minds cannot change anything.\" —George Bernard Shaw",
+			"text": "Progress is impossible without change, and those who cannot change their minds cannot change anything."
+			},
+			"1460792396501766145": {
+			"author": "Unknown",
+			"id": "1460792396501766145",
+			"originalText": "\"Shipping beats perfection.\" —Unknown",
+			"text": "Shipping beats perfection."
+			},
+			"1460792468228608002": {
+			"author": "Steve Jobs",
+			"id": "1460792468228608002",
+			"originalText": "\"Sometimes life hits you in the head with a brick. Don't lose faith.\" —Steve Jobs",
+			"text": "Sometimes life hits you in the head with a brick. Don't lose faith."
+			},
+			"1460810484496547840": {
+			"author": "John C Maxwell",
+			"id": "1460810484496547840",
+			"originalText": "\"Your dreams don't work unless you do.\" —John C. Maxwell",
+			"text": "Your dreams don't work unless you do."
+			},
+			"1460810683986046977": {
+			"author": "Walt Disney",
+			"id": "1460810683986046977",
+			"originalText": "\"When you’re curious, you find lots of interesting things to do.\" —Walt Disney",
+			"text": "When you’re curious, you find lots of interesting things to do."
+			},
+			"1460810747512967170": {
+			"author": "Doris Lessing",
+			"id": "1460810747512967170",
+			"originalText": "\"Whatever you're meant to do, do it now. The conditions are always impossible.\" —Doris Lessing",
+			"text": "Whatever you're meant to do, do it now. The conditions are always impossible."
+			},
+			"1460810806057050112": {
+			"author": "Will Rogers",
+			"id": "1460810806057050112",
+			"originalText": "\"Good judgment comes from experience, and a lot of that comes from bad judgment.\" —Will Rogers",
+			"text": "Good judgment comes from experience, and a lot of that comes from bad judgment."
+			},
+			"1460810855122026497": {
+			"author": "Henry Ford",
+			"id": "1460810855122026497",
+			"originalText": "\"Don't find fault. Find a remedy.\" —Henry Ford",
+			"text": "Don't find fault. Find a remedy."
+			},
+			"1460814694516547585": {
+			"author": "Amelia Earhart",
+			"id": "1460814694516547585",
+			"originalText": "\"The most difficult thing is the decision to act, the rest is merely tenacity.\" — Amelia Earhart",
+			"text": "The most difficult thing is the decision to act, the rest is merely tenacity."
+			},
+			"1460822860994277382": {
+			"author": "William James",
+			"id": "1460822860994277382",
+			"originalText": "\"It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome.\" —William James",
+			"text": "It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome."
+			},
+			"1460822923548119041": {
+			"author": "Eleanor Roosevelt",
+			"id": "1460822923548119041",
+			"originalText": "\"Do the thing you think you cannot do.\" —Eleanor Roosevelt",
+			"text": "Do the thing you think you cannot do."
+			},
+			"1460822998882009092": {
+			"author": "Master Shifu",
+			"id": "1460822998882009092",
+			"originalText": "\"If you only ever do what you can do, you'll never be more than you are.\" - Master Shifu",
+			"text": "If you only ever do what you can do, you'll never be more than you are."
+			},
+			"1460992477041606663": {
+			"author": "Juvenal",
+			"id": "1460992477041606663",
+			"originalText": "\"We deem those happy who from the experience of life have learned to bear its ills without being overcome by them.\" —Juvenal",
+			"text": "We deem those happy who from the experience of life have learned to bear its ills without being overcome by them."
+			},
+			"1460992608356814849": {
+			"author": "Anne Lamott",
+			"id": "1460992608356814849",
+			"originalText": "\"Reality is unforgivingly complex\" --Anne Lamott",
+			"text": "Reality is unforgivingly complex"
+			},
+			"1460993677937938432": {
+			"author": "Jen Hatmaker",
+			"id": "1460993677937938432",
+			"originalText": "\"There is no scarcity in creativity. The world always need good offerings. We cannot have too much beauty.\" - Jen Hatmaker",
+			"text": "There is no scarcity in creativity. The world always need good offerings. We cannot have too much beauty."
+			},
+			"1460993755515813888": {
+			"author": "Jen Hatmaker",
+			"id": "1460993755515813888",
+			"originalText": "\"There is no such thing as too much wisdom and literature and story and craftsmanship. There is room for you.\" - Jen Hatmaker",
+			"text": "There is no such thing as too much wisdom and literature and story and craftsmanship. There is room for you."
+			},
+			"1460993833357877251": {
+			"author": "Grant Cardone",
+			"id": "1460993833357877251",
+			"originalText": "\"Courage isn't the absence of fear, but an urgent impulse to do something despite fear.\" —Grant Cardone",
+			"text": "Courage isn't the absence of fear, but an urgent impulse to do something despite fear."
+			},
+			"1460993942871105542": {
+			"author": "Haemin Sunim",
+			"id": "1460993942871105542",
+			"originalText": "\"Rather than repeating, 'It is awful, it is awful' stare straight into the awful feeling. Quietly.\" - Haemin Sunim",
+			"text": "Rather than repeating, 'It is awful, it is awful' stare straight into the awful feeling. Quietly."
+			},
+			"1460994032146923521": {
+			"author": "Epictetus",
+			"id": "1460994032146923521",
+			"originalText": "\"Don’t let the force of an impression when it first hit you knock you off your feet; just say to it: Hold on a moment; let me see who you are and what you represent. Let me put you to the test.\" - Epictetus",
+			"text": "Don’t let the force of an impression when it first hit you knock you off your feet; just say to it: Hold on a moment; let me see who you are and what you represent. Let me put you to the test."
+			},
+			"1460994124954300421": {
+			"author": "Brant Hansen",
+			"id": "1460994124954300421",
+			"originalText": "\"Are we going to live in perpetual shock at the nature of man?\" - Brant Hansen",
+			"text": "Are we going to live in perpetual shock at the nature of man?"
+			},
+			"1460994231573495809": {
+			"author": "Elon Musk",
+			"id": "1460994231573495809",
+			"originalText": "\"When something is important enough, you do it even if the odds are not in your favor.\" —Elon Musk",
+			"text": "When something is important enough, you do it even if the odds are not in your favor."
+			},
+			"1460994380659974144": {
+			"author": "Haemin Sunim",
+			"id": "1460994380659974144",
+			"originalText": "\"Enjoy the process of learning something new. Don’t do it just for the end. Delight in the means, too.\" -Haemin Sunim",
+			"text": "Enjoy the process of learning something new. Don’t do it just for the end. Delight in the means, too."
+			},
+			"1460994424486301698": {
+			"author": "Walter Anderson",
+			"id": "1460994424486301698",
+			"originalText": "\"Nothing diminishes anxiety faster than action.\" —Walter Anderson",
+			"text": "Nothing diminishes anxiety faster than action."
+			},
+			"1460994491863613443": {
+			"author": "Anonymous",
+			"id": "1460994491863613443",
+			"originalText": "\"Slow progress is better than no progress.\" —Anonymous",
+			"text": "Slow progress is better than no progress."
+			},
+			"1460994550126694405": {
+			"author": "Seneca",
+			"id": "1460994550126694405",
+			"originalText": "\"No person has the power to have everything they want, but it is in their power not to want what they don't have, and to cheerfully put to good use what they do have\" - Seneca",
+			"text": "No person has the power to have everything they want, but it is in their power not to want what they don't have, and to cheerfully put to good use what they do have"
+			},
+			"1460994599078354945": {
+			"author": "Unknown",
+			"id": "1460994599078354945",
+			"originalText": "\"If you're not doing what you love, you're wasting your time.\" —Unknown",
+			"text": "If you're not doing what you love, you're wasting your time."
+			},
+			"1460994661737107457": {
+			"author": "David Allen",
+			"id": "1460994661737107457",
+			"originalText": "\"You have to think about your stuff more than you realize but not as much as you're afraid you might.\" - David Allen",
+			"text": "You have to think about your stuff more than you realize but not as much as you're afraid you might."
+			},
+			"1460994729852563457": {
+			"author": "Lucia Gonzalez Venzano",
+			"id": "1460994729852563457",
+			"originalText": "\"I feel so good I don't mind getting older\" - Lucia Gonzalez Venzano",
+			"text": "I feel so good I don't mind getting older"
+			},
+			"1460994762131918851": {
+			"author": "Sara Blakely",
+			"id": "1460994762131918851",
+			"originalText": "\"Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.\" —Sara Blakely",
+			"text": "Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else."
+			},
+			"1460994852297089033": {
+			"author": "Miyamoto Musashi",
+			"id": "1460994852297089033",
+			"originalText": "\"Think lightly of yourself and deeply of the world.\" —Miyamoto Musashi",
+			"text": "Think lightly of yourself and deeply of the world."
+			},
+			"1460994983725465605": {
+			"author": "Anonymous",
+			"id": "1460994983725465605",
+			"originalText": "\"There is an absolute truth out there, we just can't know what it is. But we can believe it.\" - Anonymous",
+			"text": "There is an absolute truth out there, we just can't know what it is. But we can believe it."
+			},
+			"1460995076402802689": {
+			"author": "Sven Goran Eriksson",
+			"id": "1460995076402802689",
+			"originalText": "\"The greatest barrier to success is the fear of failure.\" —Sven Goran Eriksson",
+			"text": "The greatest barrier to success is the fear of failure."
+			},
+			"1460995122913419264": {
+			"author": "Unknown",
+			"id": "1460995122913419264",
+			"originalText": "\"If you stumble make it part of the dance.\" —Unknown",
+			"text": "If you stumble make it part of the dance."
+			},
+			"1461015749279973376": {
+			"author": "Unknown",
+			"id": "1461015749279973376",
+			"originalText": "\"Obsessed is a word that the lazy use to describe the dedicated.\" —Unknown",
+			"text": "Obsessed is a word that the lazy use to describe the dedicated."
+			},
+			"1461015869144764417": {
+			"author": "Stephen Covey",
+			"id": "1461015869144764417",
+			"originalText": "\"Anything less than a conscious commitment to the important is an unconscious commitment to the unimportant.\" - Stephen Covey",
+			"text": "Anything less than a conscious commitment to the important is an unconscious commitment to the unimportant."
+			},
+			"1461015918289436673": {
+			"author": "Earl Nightingale",
+			"id": "1461015918289436673",
+			"originalText": "\"Your world is a living expression of how you are using—and have used—your mind.\" —Earl Nightingale",
+			"text": "Your world is a living expression of how you are using—and have used—your mind."
+			},
+			"1461015962082177027": {
+			"author": "Viktor E Fankl",
+			"id": "1461015962082177027",
+			"originalText": "\"Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.\" - Viktor E. Fankl",
+			"text": "Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."
+			},
+			"1461039211155365891": {
+			"author": "Unknown",
+			"id": "1461039211155365891",
+			"originalText": "\"Though you cannot go back and start again, you can start from now and have a brand new end.\" —Unknown",
+			"text": "Though you cannot go back and start again, you can start from now and have a brand new end."
+			},
+			"1461039253668851713": {
+			"author": "Ralph Waldo Emerson",
+			"id": "1461039253668851713",
+			"originalText": "\"Don't be pushed by your problems. Be led by your dreams.\" —Ralph Waldo Emerson",
+			"text": "Don't be pushed by your problems. Be led by your dreams."
+			},
+			"1461039322518339586": {
+			"author": "Dalai Lama",
+			"id": "1461039322518339586",
+			"originalText": "\"Remember that not getting what you want is sometimes a wonderful stroke of luck.\" —Dalai Lama",
+			"text": "Remember that not getting what you want is sometimes a wonderful stroke of luck."
+			},
+			"1461039368676667392": {
+			"author": "Unknown",
+			"id": "1461039368676667392",
+			"originalText": "\"A head full of fears has no space for dreams.\" —Unknown",
+			"text": "A head full of fears has no space for dreams."
+			},
+			"1461039409491419139": {
+			"author": "Suzy Kassem",
+			"id": "1461039409491419139",
+			"originalText": "\"Doubt kills more dreams than failure ever will.\" —Suzy Kassem",
+			"text": "Doubt kills more dreams than failure ever will."
+			},
+			"1461039445092622344": {
+			"author": "Walt Disney",
+			"id": "1461039445092622344",
+			"originalText": "\"The way to get started is to quit talking and begin doing.\" —Walt Disney",
+			"text": "The way to get started is to quit talking and begin doing."
+			},
+			"1461039536436232194": {
+			"author": "Mary Lou Retton",
+			"id": "1461039536436232194",
+			"originalText": "\"Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.\" —Mary Lou Retton",
+			"text": "Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you."
+			},
+			"1461039573878726656": {
+			"author": "Bob Marley",
+			"id": "1461039573878726656",
+			"originalText": "\"You never know how strong you are, until being strong is your only choice.\" —Bob Marley",
+			"text": "You never know how strong you are, until being strong is your only choice."
+			},
+			"1461039626815082496": {
+			"author": "Booker T Washington",
+			"id": "1461039626815082496",
+			"originalText": "\"If you want to lift yourself up, lift up someone else.\" —Booker T. Washington",
+			"text": "If you want to lift yourself up, lift up someone else."
+			},
+			"1461039668770717699": {
+			"author": "Les Brown",
+			"id": "1461039668770717699",
+			"originalText": "\"Forgive yourself for your faults and your mistakes and move on.\" —Les Brown",
+			"text": "Forgive yourself for your faults and your mistakes and move on."
+			},
+			"1461039742275911683": {
+			"author": "Arnold Schwarzenegger",
+			"id": "1461039742275911683",
+			"originalText": "\"Strength does not come from winning. Your struggles develop your strengths.\" —Arnold Schwarzenegger",
+			"text": "Strength does not come from winning. Your struggles develop your strengths."
+			},
+			"1461039878590775299": {
+			"author": "Alan Cohen",
+			"id": "1461039878590775299",
+			"originalText": "\"There is virtue in work and there is virtue in rest. Use both and overlook neither.\" —Alan Cohen",
+			"text": "There is virtue in work and there is virtue in rest. Use both and overlook neither."
+			},
+			"1461039967543578628": {
+			"author": "JK Rowling",
+			"id": "1461039967543578628",
+			"originalText": "\"It is our choices that show what we truly are, far more than our abilities.\" —JK Rowling",
+			"text": "It is our choices that show what we truly are, far more than our abilities."
+			},
+			"1461040028973371398": {
+			"author": "Marcus Aurelius",
+			"id": "1461040028973371398",
+			"originalText": "\"You have power over your mind, not outside events. Realize this, and you will find strength.\" —Marcus Aurelius",
+			"text": "You have power over your mind, not outside events. Realize this, and you will find strength."
+			},
+			"1461040098540077058": {
+			"author": "Anne Sweeney",
+			"id": "1461040098540077058",
+			"originalText": "\"Define success on your own terms, achieve it by your own rules, and build a life you’re proud to live.\" —Anne Sweeney",
+			"text": "Define success on your own terms, achieve it by your own rules, and build a life you’re proud to live."
+			},
+			"1461040133268926465": {
+			"author": "Roy Goodman",
+			"id": "1461040133268926465",
+			"originalText": "\"Happiness is a way of travel. Not a destination.\" —Roy Goodman",
+			"text": "Happiness is a way of travel. Not a destination."
+			},
+			"1461040201023692801": {
+			"author": "Oprah",
+			"id": "1461040201023692801",
+			"originalText": "\"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.\" —Oprah",
+			"text": "Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough."
+			},
+			"1461040230136377350": {
+			"author": "Helen Mirren",
+			"id": "1461040230136377350",
+			"originalText": "\"Listen to your instinct, grab the opportunity when it presents itself and then give it your all.\" —Helen Mirren",
+			"text": "Listen to your instinct, grab the opportunity when it presents itself and then give it your all."
+			},
+			"1461040278249246720": {
+			"author": "Walt Disney",
+			"id": "1461040278249246720",
+			"originalText": "\"When you’re curious, you find lots of interesting things to do.\" —Walt Disney",
+			"text": "When you’re curious, you find lots of interesting things to do."
+			},
+			"1461040305734443011": {
+			"author": "Earl Nightingale",
+			"id": "1461040305734443011",
+			"originalText": "\"When you judge others, you do not define them; you define yourself.\" —Earl Nightingale",
+			"text": "When you judge others, you do not define them; you define yourself."
+			},
+			"1461040384495087616": {
+			"author": "Chris Burkmenn",
+			"id": "1461040384495087616",
+			"originalText": "\"The death of a dream is the day that you stop believing in the work it takes to get there.\" —Chris Burkmenn",
+			"text": "The death of a dream is the day that you stop believing in the work it takes to get there."
+			},
+			"1461040422772371460": {
+			"author": "Eleanor Roosevelt",
+			"id": "1461040422772371460",
+			"originalText": "\"It takes as much energy to wish as it does to plan.\" —Eleanor Roosevelt",
+			"text": "It takes as much energy to wish as it does to plan."
+			},
+			"1461040466544062464": {
+			"author": "Ivan Turgenev",
+			"id": "1461040466544062464",
+			"originalText": "\"If we wait for the moment when everything, absolutely everything is ready, we shall never begin.\" —Ivan Turgenev",
+			"text": "If we wait for the moment when everything, absolutely everything is ready, we shall never begin."
+			},
+			"1461040504632610824": {
+			"author": "Aristotle",
+			"id": "1461040504632610824",
+			"originalText": "\"Pleasure in the job puts perfection in the work.\" —Aristotle",
+			"text": "Pleasure in the job puts perfection in the work."
+			},
+			"1461040542595227649": {
+			"author": "Paulo Coelho",
+			"id": "1461040542595227649",
+			"originalText": "\"Be brave. Take risks. Nothing can substitute experience.\" —Paulo Coelho",
+			"text": "Be brave. Take risks. Nothing can substitute experience."
+			},
+			"1461040581744869376": {
+			"author": "Unknown",
+			"id": "1461040581744869376",
+			"originalText": "\"Let go of those who bring you down and surround yourself with those who bring out the best in you.\" —Unknown",
+			"text": "Let go of those who bring you down and surround yourself with those who bring out the best in you."
+			},
+			"1461040624086355972": {
+			"author": "Lao Tzu",
+			"id": "1461040624086355972",
+			"originalText": "\"A good traveler has no fixed plans, and is not intent on arriving.\" - Lao Tzu",
+			"text": "A good traveler has no fixed plans, and is not intent on arriving."
+			},
+			"1461040669313568770": {
+			"author": "Seneca",
+			"id": "1461040669313568770",
+			"originalText": "\"As long as you live, keep learning how to live.\" - Seneca",
+			"text": "As long as you live, keep learning how to live."
+			},
+			"1461040700011651075": {
+			"author": "Mark Twain",
+			"id": "1461040700011651075",
+			"originalText": "\"The man who does not read has no advantage over the man who cannot read.\" - Mark Twain",
+			"text": "The man who does not read has no advantage over the man who cannot read."
+			},
+			"1461041139885084672": {
+			"author": "Unknown",
+			"id": "1461041139885084672",
+			"originalText": "\"It's not about being the best. It's about being better than you were yesterday.\" —Unknown",
+			"text": "It's not about being the best. It's about being better than you were yesterday."
+			},
+			"1461041216120778754": {
+			"author": "James Clear",
+			"id": "1461041216120778754",
+			"originalText": "\"Success usually comes down to choosing the pain of discipline over the ease of distraction.\" - James Clear",
+			"text": "Success usually comes down to choosing the pain of discipline over the ease of distraction."
+			},
+			"1461041263243759621": {
+			"id": "1461041263243759621",
+			"originalText": "“It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.” – Warren Buffett",
+			"text": "“It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.” – Warren Buffett"
+			},
+			"1461041295565090818": {
+			"author": "Jen Sincero",
+			"id": "1461041295565090818",
+			"originalText": "\"If you want to live a life you’ve never lived, you have to do things you’ve never done.\" —Jen Sincero",
+			"text": "If you want to live a life you’ve never lived, you have to do things you’ve never done."
+			},
+			"1461041373377822720": {
+			"author": "Lisa M Hayes",
+			"id": "1461041373377822720",
+			"originalText": "\"Be careful how you are talking to yourself because you are listening.\" —Lisa M. Hayes",
+			"text": "Be careful how you are talking to yourself because you are listening."
+			},
+			"1461041405309046784": {
+			"author": "Naval Ravikant",
+			"id": "1461041405309046784",
+			"originalText": "\"Self-esteem is just the reputation that you have with yourself. You'll always know.\" - Naval Ravikant",
+			"text": "Self-esteem is just the reputation that you have with yourself. You'll always know."
+			},
+			"1461041442604810240": {
+			"author": "Naval Ravikant",
+			"id": "1461041442604810240",
+			"originalText": "\"Suffering is a moment of clarity, when you can no longer deny the truth of a situation and are forced into uncomfortable change.\" - Naval Ravikant",
+			"text": "Suffering is a moment of clarity, when you can no longer deny the truth of a situation and are forced into uncomfortable change."
+			},
+			"1461041496799399937": {
+			"author": "Roald Dahl",
+			"id": "1461041496799399937",
+			"originalText": "\"A little nonsense now and then is relished by the wisest people.\" —Roald Dahl",
+			"text": "A little nonsense now and then is relished by the wisest people."
+			},
+			"1461055892405690371": {
+			"author": "Mike Maples Jr",
+			"id": "1461055892405690371",
+			"originalText": "\"Ego is about who’s right. Truth is about what’s right.\" - Mike Maples Jr.",
+			"text": "Ego is about who’s right. Truth is about what’s right."
+			},
+			"1461056386943442946": {
+			"author": "Arthur Ashe",
+			"id": "1461056386943442946",
+			"originalText": "\"Start where you are. Use what you have. Do what you can.\" —Arthur Ashe",
+			"text": "Start where you are. Use what you have. Do what you can."
+			},
+			"1461056616984289284": {
+			"id": "1461056616984289284",
+			"originalText": "“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case you fail by default.”—J. K. Rowling",
+			"text": "“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case you fail by default.”—J. K. Rowling"
+			},
+			"1461056669320769541": {
+			"author": "Henry David Thoreau",
+			"id": "1461056669320769541",
+			"originalText": "\"A man is rich in proportion to the number of things he can afford to let alone.\" - Henry David Thoreau",
+			"text": "A man is rich in proportion to the number of things he can afford to let alone."
+			},
+			"1461063337836380160": {
+			"author": "Mary EwingMulligan",
+			"id": "1461063337836380160",
+			"originalText": "\"Wine is two products. Some wine is just a beverage, and it should taste good - period. Other wine is an art form that fascinates and intrigues people. Many people that make wine want you to think that their wines are in the second category...\" - Mary Ewing-Mulligan",
+			"text": "Wine is two products. Some wine is just a beverage, and it should taste good - period. Other wine is an art form that fascinates and intrigues people. Many people that make wine want you to think that their wines are in the second category..."
+			},
+			"1461063400297885698": {
+			"author": "Leonard Cohen",
+			"id": "1461063400297885698",
+			"originalText": "\"There’s a crack in everything. That’s how the light gets in.\" - Leonard Cohen",
+			"text": "There’s a crack in everything. That’s how the light gets in."
+			},
+			"1461063450478530560": {
+			"author": "Muhammad Ali",
+			"id": "1461063450478530560",
+			"originalText": "\"Impossible is just a big word thrown around by small men and women who find it easier to live in the world they've been given than to explore the power they have to change it.\" —Muhammad Ali",
+			"text": "Impossible is just a big word thrown around by small men and women who find it easier to live in the world they've been given than to explore the power they have to change it."
+			},
+			"1461063516094287875": {
+			"author": "Bertrand Russell",
+			"id": "1461063516094287875",
+			"originalText": "\"In all affairs, it’s a healthy thing now and then to hang a question mark on the things you have long taken for granted.\" —Bertrand Russell",
+			"text": "In all affairs, it’s a healthy thing now and then to hang a question mark on the things you have long taken for granted."
+			},
+			"1461063548939878402": {
+			"author": "Elbert Hubbard",
+			"id": "1461063548939878402",
+			"originalText": "\"The greatest mistake you can make in life is to be continually fearing you will make one.\" —Elbert Hubbard",
+			"text": "The greatest mistake you can make in life is to be continually fearing you will make one."
+			},
+			"1461063582972452865": {
+			"author": "Les Brown",
+			"id": "1461063582972452865",
+			"originalText": "\"Other people's opinion of you does not have to become your reality.\" —Les Brown",
+			"text": "Other people's opinion of you does not have to become your reality."
+			},
+			"1461063607794298882": {
+			"author": "Amelia Earhart",
+			"id": "1461063607794298882",
+			"originalText": "\"Decide whether or not the goal is worth the risks involved. If it is, stop worrying.\" —Amelia Earhart",
+			"text": "Decide whether or not the goal is worth the risks involved. If it is, stop worrying."
+			},
+			"1461063654707634182": {
+			"author": "Henry Ford",
+			"id": "1461063654707634182",
+			"originalText": "\"One of the greatest discoveries a person makes is to find they can do what they were afraid they couldn't do.\" —Henry Ford",
+			"text": "One of the greatest discoveries a person makes is to find they can do what they were afraid they couldn't do."
+			},
+			"1461063687435812866": {
+			"author": "Carl Sagan",
+			"id": "1461063687435812866",
+			"originalText": "\"Somewhere, something incredible is waiting to be known.\" —Carl Sagan",
+			"text": "Somewhere, something incredible is waiting to be known."
+			},
+			"1461063749339529216": {
+			"author": "KD Trey",
+			"id": "1461063749339529216",
+			"originalText": "\"Hard work beats talent when talent fails to work hard.\" —KD Trey",
+			"text": "Hard work beats talent when talent fails to work hard."
+			},
+			"1461063786811461633": {
+			"author": "Elbert Hubbard",
+			"id": "1461063786811461633",
+			"originalText": "\"To escape criticism: do nothing, say nothing, be nothing.\" —Elbert Hubbard",
+			"text": "To escape criticism: do nothing, say nothing, be nothing."
+			},
+			"1461063853714788355": {
+			"author": "Gretchen Rubin",
+			"id": "1461063853714788355",
+			"originalText": "\"What you do everyday matters more than what you do once in a while.\" —Gretchen Rubin",
+			"text": "What you do everyday matters more than what you do once in a while."
+			},
+			"1461063888569462784": {
+			"author": "Mary Oliver",
+			"id": "1461063888569462784",
+			"originalText": "\"The patterns of our lives reveal us. Our habits measure us.\" —Mary Oliver",
+			"text": "The patterns of our lives reveal us. Our habits measure us."
+			},
+			"1461063924728561665": {
+			"author": "Elbert Hubbard",
+			"id": "1461063924728561665",
+			"originalText": "\"The happiness of this life depends less on what befalls you than the way in which you take it.\" —Elbert Hubbard",
+			"text": "The happiness of this life depends less on what befalls you than the way in which you take it."
+			},
+			"1461063977304158215": {
+			"author": "Abraham Maslow",
+			"id": "1461063977304158215",
+			"originalText": "\"In any given moment we have two options: to step forward into growth or back into safety.\" —Abraham Maslow",
+			"text": "In any given moment we have two options: to step forward into growth or back into safety."
+			},
+			"1461064021365297153": {
+			"author": "Scott Adams",
+			"id": "1461064021365297153",
+			"originalText": "\"There’s no such things as a small act of kindness. Every act creates a ripple with no logical end.\" —Scott Adams",
+			"text": "There’s no such things as a small act of kindness. Every act creates a ripple with no logical end."
+			},
+			"1461064077573124098": {
+			"author": "Carlos Castaneda",
+			"id": "1461064077573124098",
+			"originalText": "\"What weakens us is feeling offended by the deeds and misdeeds of our fellow men and women. Our self-importance requires that we spend most of our lives offended by someone.\" —Carlos Castaneda",
+			"text": "What weakens us is feeling offended by the deeds and misdeeds of our fellow men and women. Our self-importance requires that we spend most of our lives offended by someone."
+			},
+			"1461064105981202438": {
+			"author": "Eric Hoffer",
+			"id": "1461064105981202438",
+			"originalText": "\"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.\" —Eric Hoffer",
+			"text": "In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists."
+			},
+			"1461064142001901572": {
+			"author": "Dalai Lama",
+			"id": "1461064142001901572",
+			"originalText": "\"Be kind whenever possible. It is always possible.\" —Dalai Lama",
+			"text": "Be kind whenever possible. It is always possible."
+			},
+			"1461064179486388225": {
+			"author": "Dean Smith",
+			"id": "1461064179486388225",
+			"originalText": "\"What do you do with a mistake: recognize it, admit it, learn from it, forget it.\" —Dean Smith",
+			"text": "What do you do with a mistake: recognize it, admit it, learn from it, forget it."
+			},
+			"1461064451692503041": {
+			"author": "Holstee",
+			"id": "1461064451692503041",
+			"originalText": "\"This is your life. Do what you love, and do it often.\" —Holstee",
+			"text": "This is your life. Do what you love, and do it often."
+			},
+			"1461064489948700673": {
+			"author": "Epictetus",
+			"id": "1461064489948700673",
+			"originalText": "\"First say to yourself what you would be; and then do what you have to do.\" —Epictetus",
+			"text": "First say to yourself what you would be; and then do what you have to do."
+			},
+			"1461064522257485825": {
+			"author": "Marcus Aurelius",
+			"id": "1461064522257485825",
+			"originalText": "\"Waste no more time arguing about what a good person should be. Be one.\" —Marcus Aurelius",
+			"text": "Waste no more time arguing about what a good person should be. Be one."
+			},
+			"1461064553257529350": {
+			"author": "Will Rogers",
+			"id": "1461064553257529350",
+			"originalText": "\"Don't let yesterday take up too much of today.\" —Will Rogers",
+			"text": "Don't let yesterday take up too much of today."
+			},
+			"1461064595397771264": {
+			"author": "Unknown",
+			"id": "1461064595397771264",
+			"originalText": "\"Be the type of person you want to meet.\" —Unknown",
+			"text": "Be the type of person you want to meet."
+			},
+			"1461064720773881856": {
+			"author": "Chris Guillebeau",
+			"id": "1461064720773881856",
+			"originalText": "\"You don't have to live your life the way other people expect you to.\" —Chris Guillebeau",
+			"text": "You don't have to live your life the way other people expect you to."
+			},
+			"1461064751786565632": {
+			"author": "Andrew Carnegie",
+			"id": "1461064751786565632",
+			"originalText": "\"People who are unable to motivate themselves must be content with mediocrity no matter how impressive their other talents.\" —Andrew Carnegie",
+			"text": "People who are unable to motivate themselves must be content with mediocrity no matter how impressive their other talents."
+			},
+			"1461064776793018370": {
+			"author": "Theodore Isaac Rubin",
+			"id": "1461064776793018370",
+			"originalText": "\"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.\" —Theodore Isaac Rubin",
+			"text": "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."
+			},
+			"1461064826076086272": {
+			"author": "T Harv Eker",
+			"id": "1461064826076086272",
+			"originalText": "\"Successful people have fear, successful people have doubts, and successful people have worry. They just don’t let these feelings stop them.\" —T. Harv Eker",
+			"text": "Successful people have fear, successful people have doubts, and successful people have worry. They just don’t let these feelings stop them."
+			},
+			"1461064924730253314": {
+			"author": "Mihaly Csikszentmihalyi",
+			"id": "1461064924730253314",
+			"originalText": "\"Paradoxically, a self-centered self cannot become more complex, because all the psychic energy at its disposal is invested in fulfilling its current goals, instead of learning about new ones.\"\n- Mihaly Csikszentmihalyi",
+			"text": "Paradoxically, a self-centered self cannot become more complex, because all the psychic energy at its disposal is invested in fulfilling its current goals, instead of learning about new ones."
+			},
+			"1461065078074056705": {
+			"author": "Dwight D Eisenhower",
+			"id": "1461065078074056705",
+			"originalText": "\"Never waste a minute thinking about people you don't like.\" —Dwight D. Eisenhower",
+			"text": "Never waste a minute thinking about people you don't like."
+			},
+			"1461091527539625984": {
+			"author": "Zig Ziglar",
+			"id": "1461091527539625984",
+			"originalText": "\"You will get all you want in life if you help enough other people get what they want.\" —Zig Ziglar",
+			"text": "You will get all you want in life if you help enough other people get what they want."
+			},
+			"1461134364280950786": {
+			"author": "David Ogilvy",
+			"id": "1461134364280950786",
+			"originalText": "\"Fear leads to self-doubt which is the worst enemy of creativity.\" —David Ogilvy",
+			"text": "Fear leads to self-doubt which is the worst enemy of creativity."
+			},
+			"1461134429724700674": {
+			"author": "Charles Swindoll",
+			"id": "1461134429724700674",
+			"originalText": "\"We are all faced with a series of great opportunities brilliantly disguised as impossible situations.\" —Charles Swindoll",
+			"text": "We are all faced with a series of great opportunities brilliantly disguised as impossible situations."
+			},
+			"1461134471013359617": {
+			"author": "Amy Poehler",
+			"id": "1461134471013359617",
+			"originalText": "\"There’s power in looking silly and not caring that you do.\" —Amy Poehler",
+			"text": "There’s power in looking silly and not caring that you do."
+			},
+			"1461138029880303619": {
+			"author": "Sarah Ban Breathnach",
+			"id": "1461138029880303619",
+			"originalText": "\"The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do.\" —Sarah Ban Breathnach",
+			"text": "The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do."
+			},
+			"1461138075929567236": {
+			"author": "Howard W Newton",
+			"id": "1461138075929567236",
+			"originalText": "\"Tact is the art of making a point without making an enemy.\" —Howard W. Newton",
+			"text": "Tact is the art of making a point without making an enemy."
+			},
+			"1461138111447146496": {
+			"id": "1461138111447146496",
+			"originalText": "\"The single biggest problem with communication is the illusion that it has taken place.”\n\n – George Bernard Shaw",
+			"text": "\"The single biggest problem with communication is the illusion that it has taken place.”\n\n – George Bernard Shaw"
+			},
+			"1461138322626007042": {
+			"author": "Coach McMillan",
+			"id": "1461138322626007042",
+			"originalText": "\"You cannot start the next chapter of your life if you keep re-reading the last one.\" —Coach McMillan",
+			"text": "You cannot start the next chapter of your life if you keep re-reading the last one."
+			},
+			"1461138422064549888": {
+			"author": "Pablo Picasso",
+			"id": "1461138422064549888",
+			"originalText": "\"Art washes away from the soul the dust of everyday life.\" —Pablo Picasso",
+			"text": "Art washes away from the soul the dust of everyday life."
+			},
+			"1461138463328141317": {
+			"author": "Unknown",
+			"id": "1461138463328141317",
+			"originalText": "\"Happiness is not the absence of problems, it's the ability to deal with them.\" —Unknown",
+			"text": "Happiness is not the absence of problems, it's the ability to deal with them."
+			},
+			"1461138495888445444": {
+			"author": "Marilyn Monroe",
+			"id": "1461138495888445444",
+			"originalText": "\"Sometimes good things fall apart so better things can fall together.\" —Marilyn Monroe",
+			"text": "Sometimes good things fall apart so better things can fall together."
+			},
+			"1461138528415277057": {
+			"author": "Joseph Campbell",
+			"id": "1461138528415277057",
+			"originalText": "\"Find a place inside where there's joy, and the joy will burn out the pain.\" —Joseph Campbell",
+			"text": "Find a place inside where there's joy, and the joy will burn out the pain."
+			},
+			"1461138555447611399": {
+			"author": "Toni Morrison",
+			"id": "1461138555447611399",
+			"originalText": "\"For me, success is not a public thing. It's a private thing. It's when you have fewer and fewer regrets.\" - Toni Morrison",
+			"text": "For me, success is not a public thing. It's a private thing. It's when you have fewer and fewer regrets."
+			},
+			"1461138722980708352": {
+			"author": "James Clear",
+			"id": "1461138722980708352",
+			"originalText": "\"The more you create, the more powerful you become. The more you consume, the more powerful others become.\" –James Clear",
+			"text": "The more you create, the more powerful you become. The more you consume, the more powerful others become."
+			},
+			"1461138761954127874": {
+			"author": "Jim Rohn",
+			"id": "1461138761954127874",
+			"originalText": "\"Your life doesn’t get better by chance, it gets better by change.\" —Jim Rohn",
+			"text": "Your life doesn’t get better by chance, it gets better by change."
+			},
+			"1461138803528065027": {
+			"author": "Frank Peretti",
+			"id": "1461138803528065027",
+			"originalText": "\"Don’t be perfect, just keep getting better.\" —Frank Peretti",
+			"text": "Don’t be perfect, just keep getting better."
+			},
+			"1461138876802613254": {
+			"author": "Reinhold Niebuhr",
+			"id": "1461138876802613254",
+			"originalText": "\"Change is the essence of life; be willing to surrender what you are for what you could become.\" —Reinhold Niebuhr",
+			"text": "Change is the essence of life; be willing to surrender what you are for what you could become."
+			},
+			"1461371701220966402": {
+			"author": "Ian Maclaren",
+			"id": "1461371701220966402",
+			"originalText": "\"Be kind, everyone you meet is fighting a hard battle.\" --Ian Maclaren",
+			"text": "Be kind, everyone you meet is fighting a hard battle."
+			},
+			"1461371958889631744": {
+			"author": "Daniel Laporte",
+			"id": "1461371958889631744",
+			"originalText": "\"You got this. Make it happen.\" --Daniel Laporte",
+			"text": "You got this. Make it happen."
+			},
+			"1461372198732505089": {
+			"author": "Mary Angelou",
+			"id": "1461372198732505089",
+			"originalText": "\"Nothing can dim the light which shines from within.\" --Mary Angelou",
+			"text": "Nothing can dim the light which shines from within."
+			},
+			"1461372388424118273": {
+			"author": "Albert Einstein",
+			"id": "1461372388424118273",
+			"originalText": "\"Creativity is intelligence having fun.\" --Albert Einstein",
+			"text": "Creativity is intelligence having fun."
+			}
+		}
 	}
-  }

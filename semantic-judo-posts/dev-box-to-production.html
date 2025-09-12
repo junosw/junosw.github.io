@@ -1,0 +1,46 @@
+<article lang="en">
+  <header>
+    <h1>Getting Software From Dev-Box To Production</h1>
+  </header>
+
+  <p>Oodles has been written about how to release software over the ages. I will now add to that number. No need for alarm — I'm sure <em>your</em>&nbsp;continuously-delivered, automagically-tested and integrated software delivery process is just fine. What I want to talk about is the hidden force that drives software release processes, usually without anyone intentionally addressing or even talking about said force. That force is <em><strong>risk</strong></em>. Specifically, the ability to assess risk and the tolerance for risk.</p>
+
+  <p>Every software business wants to release bug free code. But none can so release processes tend to be dominated by the desire to reduce risk to the business when failures occur. So we extract truths:&nbsp;software bugs are inevitable in any non-trivial software, bugs negatively impact the software business and release processes are primarily focused on reducing bugs.</p>
+
+  <figure>
+    <img class="size-medium wp-image-239 aligncenter inline-image" src="http://www.semanticjudo.com/wp-content/uploads/2017/12/release-process-blog-diagram112--300x87.png" alt="Diagram about release processes" width="750" height="217">
+  </figure>
+
+  <p>This is pretty straightforward — intuitively easy to understand. But this is just the macro, 50,000 foot view which is often easy to conceptually understand with pictures. These graphs also illuminate the challenges for a technologist looking to understand how to build a release process:</p>
+
+  <ol>
+    <li>There are no numbers on those graphs. How many bugs until your business fails? How much testing is enough?</li>
+    <li>The degree to which bugs impact a business is clearly a function of the <a href="https://en.wikipedia.org/wiki/Criticality_index" target="_blank" rel="noopener noreferrer">criticality</a> and breadth of the bug.</li>
+    <li>There are lots of ways to build a release process and all of them take investment. You can't be sure what the return on that investment is (see #1) so how and what do you invest?</li>
+    <li>Businesses can fail for many reasons and many do for several reasons at once.</li>
+  </ol>
+
+  <p>And those are just the obvious challenges. There are numerous devils in the details. The impact of bugs can also be a function of what kind of business you are in, who your customers are, what your software is doing, how many customers you have, how valuable your product is, the temperament of your customers, the support processes in place, the attitude of the customer reps, the mental fortitude of the employees, the economy, and the market forces at work in your sector, to name a few. Not to mention, any investment made to quantify any of this in hopes of making an "informed" decision is also an investment in the release process which then must, theoretically, be justified. In essence, we're peering into a large vat of variables and must extract an answer (i.e. the release process we will have) when there are simply too many variables to derive objective answers. To quote Anne Lamott, "Reality is unforgivingly complex."</p>
+
+  <p>Everyone in a position to make decisions about how to release software is doing so in this context, consciously or otherwise. A complete, quantitative answer as to what any particular software release process should look like is an intractable problem. The large majority of businesses will not be willing (if even capable) of investing the time and effort required to discover an objective answer. And the ROI for doing so is questionable to begin with (which makes it a great question for academics).</p>
+
+  <p>Extrapolating then, this should be recognized — <em>the process for releasing software is built through a series of qualitative, intuitive decisions based on the decision makers collective experience, education <u>and</u> their ability to asses and accept risk.</em>&nbsp;That is, we are often just making an educated guess as to what the "right" process is. This is both unavoidable and generally acceptable for most software businesses.</p>
+
+  <figure>
+    <img class="size-medium wp-image-256 aligncenter inline-image" src="http://www.semanticjudo.com/wp-content/uploads/2017/12/release-process-blog-diagram222-300x103.png" alt="Diagram showing risk tolerance" width="595" height="205">
+  </figure>
+
+  <p>When I say "risk tolerance" here, I'm talking about the collective risk tolerance of the decision makers responsible for the release process. This could be one to many people. The decision maker(s) will naturally incorporate (usually subconsciously) the assumed risk tolerances of those they are responsible to as well e.g. a boss, customers, investors, etc. In practice, risk assessment and risk tolerance are intertwined but clearly if one can't accurately assess risk, they are likely to introduce a lot of bugs (this covers the case where some gal or guy is experienced, educated, has a low risk tolerance but is, unfortunately, incompetent).</p>
+
+  <p>Just about everyone understands how experience and education play a role in technical decision making. But rarely is the role of risk in the release process addressed or even discussed. In my experience, risk tolerance is relatively, and sometimes absurdly, low and most projects/businesses do risk assessment by declaring or assuming that all bugs are bad. Full stop. The primary problem with this mindset is that <em>it does nothing to inform technologists what level of investment the business is willing to make to prevent the release of bugs</em>. This is critical because preventing the release of bugs can be a massive investment (as a rough measure, in my experience, <em>after</em> having made an upfront investment in testing and release infrastructure and tools, each additional feature will cost roughly 2-3x time to have 98% confidence that it is bug-free in every subsequent release).</p>
+
+  <figure>
+    <img class="aligncenter size-full wp-image-258 inline-image" src="http://www.semanticjudo.com/wp-content/uploads/2017/12/release-process-blog-diagram3.png" alt="Diagram on bug risk investment" width="688" height="245">
+  </figure>
+
+  <p>Despite the difficulty in understanding "real risk" to a business releasing bugs (noted above), there is real value in decision makers discussing their understanding of the risk to the business when critical and non-critical bugs are released. This type of conversation can help a leadership team share concerns about software quality, talk about how bugs can and will impact the business, and to align expectations about what investment is required to achieve business goals.</p>
+
+  <p>It is important for leadership and engineers to have a shared understanding of what will be involved with preventing the release of bugs. From the commitment and time to develop automated testing to building infrastructure and solutions for ensuring your application is healthy. All of it costs time and money and the bigger the investment, the less likely you are to release bugs. But this investment should be intentional and, ideally, documented and well-understood by everyone involved with the development, release and quality of the software. When this sort of alignment occurs, then the engineering team understands how to strategize and make decisions around testing and release. They are free to make decisions without fear of backlash and with confidence that whatever the outcome (e.g. it takes a long time to develop a well-tested feature or perhaps a critical bug is released) the risk to the business has been considered and the investment in the release process is intentional.</p>
+
+  <p><strong>That's the takeaway:</strong> be intentional and explicit about what your release process costs and what risks it is, or is not introducing to the project or business. Through the process of doing so, the team will naturally develop an effective strategy for releasing software to address the needs of the business with regard to both investment and risk of bugs.</p>
+</article>
