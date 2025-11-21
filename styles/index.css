@@ -13,6 +13,10 @@
 	--brand-purple: #5a43b5;
 }
 
+@view-transition {
+	navigation: auto;
+}
+
 /*
 <uniquifier>: Use a unique and descriptive class name
 <weight>: Use a value from 100 to 900
